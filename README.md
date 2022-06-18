@@ -7,4 +7,4 @@
 ```output/data.csv``` contains the scraped data from these 10 URLs.
 
 - For execution run ```python scraper.py```.
-- The output will be stored in ```output/data.csv```.
+- The URLs will be fetched from ```data/sample.json``` and the output(scraped data) will be stored in ```output/data.csv```.
